@@ -1,9 +1,8 @@
 <img src="https://github.com/larissamilhorance/larissamilhorance/blob/main/Capa_gh.jpg">
 
 <br>
-Meu nome é Larissa e eu amo tecnologia desde sempre, basicamente!
+<h2><b>Olá, eu sou a Larissa!</h2></b>
 <br>
-
 <h4>Algumas informações básicas sobre mim: </h4>
 <i>- Estou atualmente trabalhando como Estagiária em Desenvolvimento de software na Pagar.me (Stone Co.)
 <br>
