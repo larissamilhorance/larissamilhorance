@@ -1,7 +1,7 @@
 ### Hello World!
 ### Olá, Mundo!
 <p alighn="center">
-    <img width="470" src=larissamilhorance/20221027_0020201.git">
+    <img width="470" src=larissamilhorance/20221027_0020201.gif">
 </p>
 #Pt_Br
  <i alighn="right">
