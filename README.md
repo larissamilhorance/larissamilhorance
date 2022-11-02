@@ -4,31 +4,31 @@
 Meu nome é Larissa e eu amo tecnologia desde sempre, basicamente!
 <br>
 
-<h3>Algumas informações básicas sobre mim: </h3>
-- Estou atualmente trabalhando como Estagiária em Desenvolvimento de software na Pagar.me (Stone Co.)
+<h4>Algumas informações básicas sobre mim: </h4>
+_- Estou atualmente trabalhando como Estagiária em Desenvolvimento de software na Pagar.me (Stone Co.)_
 <br>
-- Estudo Ciência da Computação na Estácio de Sá
+_- Estudo Ciência da Computação na Estácio de Sá_
 <br>
 - Meus pronomes são: Ela/Dela
 <br>
-- Sou mãe de um ser humanino chamado Dário e tutora de um autêntico vira-lata caramelo Brasileiro, chamado Bilbo Bolseiro. 
+_- Sou mãe de um ser humanino chamado Dário e tutora de um autêntico vira-lata caramelo Brasileiro, chamado Bilbo Bolseiro. _
 <br>
-- Sou natural do Rio de Janeiro, Brasil
+_- Sou natural do Rio de Janeiro, Brasil_
 <br>
 <br>
 <h3> Áreas de estudo e interesses:</h3>
-- Programação em Golang
+_- Programação em Golang_
  <br>
- - Privacidade e Proteção de dados pessoais
+ _- Privacidade e Proteção de dados pessoais_
  <br>
- - Ciência de dados
+ _- Ciência de dados_
  <br>
- - Afrofuturismo 
+ _- Afrofuturismo_
  <br>
- - Inclusão de grupos minotirários em tecnologia e engajamento de comunidades
+ _- Inclusão de grupos minotirários em tecnologia e engajamento de comunidades_
 <br>
 <br>
 <p>✨Me ache por aí✨</p>
+Compartilhando coisas interessantes no [Linkedin](https://www.linkedin.com/in/larissa-milhorance/) e no meu [Blog](https://dev.to/larimilhorance)
 <br>
-* Compartilhando coisas interessantes [LinkedIn](https://www.linkedin.com/in/larissa-milhorance/) | [Blog(em breve)](https://dev.to/larimilhorance) 
-* Entre em contato pelo meu email [larissamilhorance@tutanota.com(mailto:larissamilhorance@tutanota.com)
+Entre em contato também pelo [email](mailto:larissamilhorance@tutanota.com)
