@@ -1,4 +1,4 @@
-<img src="https://github.com/larissamilhorance/larissamilhorance/blob/main/Capa_gh.jpg">
+<img align="center" src="https://github.com/larissamilhorance/larissamilhorance/blob/main/Capa_gh.jpg">
 
 <br>
 <h2><b>Olá, eu sou a Larissa!</h2></b>
@@ -30,9 +30,9 @@
 <br>
 <br>
 <p>✨Me ache por aí✨</p>
-Compartilhando coisas interessantes no [Linkedin](https://www.linkedin.com/in/larissa-milhorance/) e no meu [Blog](https://dev.to/larimilhorance)
+Compartilhando coisas interessantes no meu Linkedin (https://www.linkedin.com/in/larissa-milhorance) e no meu Blog (https://dev.to/larimilhorance)
 <br>
-Entre em contato também pelo [email](mailto:larissamilhorance@tutanota.com)
+Entre em contato também pelo meu email <i>larissamilhorance@tutanota.com</i>
 <br>
 
 <h3>Até mais! (◕‿-)</h3>
